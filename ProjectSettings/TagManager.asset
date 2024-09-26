@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Action
+  - AutoCrouch
+  - Ragdoll
+  - Ignore Ragdoll
+  - Boss
+  - Enemy
+  - CompanionAI
+  - Weapon
+  - PlayerUI
+  - Collectable
+  - Interactable
+  - LookAt
+  - FxTemporaire
+  - punch
+  - generate_car
+  - child_cars_New
+  - E_Plane
+  - planee
+  - joy1
+  - joy2
+  - particle_Obj_1
+  - particle_Obj_2
+  - CPButton
+  - minmapimage
+  - mobile_control
+  - part_2
+  - part_1
+  - part_3
+  - Stone
+  - Street
+  - Grass
+  - particle_Obj_4
+  - rescue_Maal
+  - explode
+  - bike_prefab
+  - detect_bike
+  - civil
+  - biker_man
+  - gun
+  - Lazer
+  - lazzer
+  - error
+  - enemies
+  - follow_this
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  -
+  - Water
+  - UI
+  -
+  -
+  - Player
+  - Enemy
+  - CompanionAI
+  - Triggers
+  - StopMove
+  - Action
+  - HeadTrack
+  - map
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

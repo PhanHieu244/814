@@ -1,0 +1,19 @@
+public enum vHumanBones
+{
+	RightHand,
+	RightLowerArm,
+	RightUpperArm,
+	RightShoulder,
+	LeftHand,
+	LeftLowerArm,
+	LetfUpperArm,
+	LeftShoulder,
+	RightFoot,
+	RightLowerLeg,
+	RightUpperLeg,
+	LeftFoot,
+	LeftLowerLeg,
+	LeftUpperLeg,
+	Chest,
+	Head
+}
